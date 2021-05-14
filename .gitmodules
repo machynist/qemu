@@ -48,7 +48,7 @@
 	url = https://github.com/qemu/berkeley-softfloat-3.git
 [submodule "roms/edk2"]
 	path = roms/edk2
-	url = https://github.com/qemu/edk2.git
+	url = https://github.com/machynist/edk2/edk2.git
 [submodule "slirp"]
 	path = slirp
 	url = https://github.com/qemu/libslirp.git
